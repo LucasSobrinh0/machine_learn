@@ -1,0 +1,1 @@
+# Previsão de cores com python

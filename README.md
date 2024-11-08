@@ -4,4 +4,4 @@ Esse repositório tem como intuito ensinar inteligência artificial e mostrar to
 
 ## Projetos
 
-- [Previsao de cores](/predict_color/README.md): Um modelo KNN para prever cores.
+- [Previsao de cores](./predict_color/README.md): Um modelo KNN para prever cores.
