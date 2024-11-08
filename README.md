@@ -4,4 +4,5 @@ Esse repositório tem como intuito ensinar inteligência artificial e mostrar to
 
 ## Projetos
 
+- [Previsão do dolar](./linear_regression/README.md): Um modelo de regressão linear para prever valor do dolar.
 - [Previsao de cores](./predict_color/README.md): Um modelo KNN para prever cores.
