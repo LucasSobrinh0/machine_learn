@@ -22,5 +22,5 @@ E execute com: python.exe nome_do_arquivo.py
 
 ## Projetos
 
-- [Previsão do dolar](./linear_regression/README.md): Um modelo de regressão linear para prever valor do dolar.
+- [Previsão do valor do Carro baeasdo no KM](./linear_regression/README.md): Um modelo de regressão linear para prever valor de um carro baseado no KM.
 - [Previsao de cores](./predict_color/README.md): Um modelo KNN para prever cores.
