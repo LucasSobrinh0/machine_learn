@@ -5,6 +5,7 @@ Esse repositório tem como intuito ensinar inteligência artificial e mostrar to
 ## Como usar?
 
 - Primeiro passo: Clonar repositório.
+
 git clone https://github.com/LucasSobrinh0/machine_learn
 
 - Segundo passo: Criar ambiente virtual e instalar dependências. (Certifique-se de estar no diretório /machine_learn)
